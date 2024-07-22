@@ -2,6 +2,8 @@
 
 ### cd xmas
 
+### cd xmas
+
 ### npm install 
 
 ### npm run dev
